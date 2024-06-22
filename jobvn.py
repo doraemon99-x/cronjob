@@ -4,22 +4,8 @@ import requests
 
 # List of URLs
 urls = [
-    "https://str.skom.id/vid/vidh/tv.php?id=204",
-    "https://str.skom.id/vid/vidh/tv.php?id=205",
-    "https://str.skom.id/vid/vidh/tv.php?id=206",
-    "https://str.skom.id/vid/vidh/tv.php?id=734",
-    "https://str.skom.id/vid/vidh/tv.php?id=733",
-    "https://str.skom.id/vid/vidh/tv.php?id=782",
-    "https://str.skom.id/vid/vidh/tv.php?id=6852",
-    "https://str.skom.id/vid/vidh/tv.php?id=7052",
-    "https://str.skom.id/vid/vidmpd/tv.php?id=875",
-    "https://str.skom.id/vid/vidmpd/tv.php?id=206",
-    "https://str.skom.id/vid/vidmpd/tv.php?id=6685",
-    "https://str.skom.id/vid/vidmpd/tv.php?id=6685",
-    "https://str.skom.id/vid/vidmpd/tv.php?id=6686",
-    "https://str.skom.id/vid/vidmpd/tv.php?id=6786",
-    "https://str.skom.id/vid/vidmpd/tv.php?id=6299",
-    "https://str.skom.id/vid/vidmpd/tv.php?id=6317",
+    "https://str.skom.id/vid/vidmpd/tv.php?id=17304",
+    "https://str.skom.id/vid/vidmpd/tv.php?id=17305",
 ]
 
 # Visit each URL
