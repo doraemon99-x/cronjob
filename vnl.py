@@ -6,7 +6,7 @@ import pytz
 def run_job():
     try:
         # Menjalankan file job.py
-        result = subprocess.run(['python', 'job.py'], capture_output=True, text=True)
+        result = subprocess.run(['python', 'jobvn.py'], capture_output=True, text=True)
         
         # Menampilkan output dari eksekusi file job.py
         print("Output:\n", result.stdout)
